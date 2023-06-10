@@ -75,4 +75,5 @@ def readbarcode():
     print(f"تم حفظ ملف الإكسل في: {excel_path}")
 
 
+
 readbarcode()
